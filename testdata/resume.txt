@@ -1,0 +1,20 @@
+﻿John Doe
+Email: john.doe@example.com
+Phone: +1 555-123-4567
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+SUMMARY
+Backend developer with 5 years of experience building scalable APIs.
+
+EXPERIENCE
+- Developed REST APIs using Java, Spring Boot, and PostgreSQL.
+- Led a team of 3 engineers to migrate services to AWS.
+- Reduced API latency by 40% through caching with Redis.
+- Built CI pipelines with GitHub Actions and Docker.
+
+SKILLS
+Java, Spring Boot, PostgreSQL, Redis, Docker, AWS, Git, REST, Microservices.
+
+EDUCATION
+B.S. in Computer Science, State University, 2019.

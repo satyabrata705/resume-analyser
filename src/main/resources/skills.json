@@ -1,0 +1,32 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c++", "c#", "go", "rust",
+    "ruby", "php", "swift", "kotlin", "scala", "r", "matlab", "perl"
+  ],
+  "web_frameworks": [
+    "spring", "spring boot", "fastapi", "django", "flask", "express", "nestjs",
+    "react", "next.js", "vue", "angular", "svelte", "node.js", "rails", "laravel"
+  ],
+  "databases": [
+    "postgresql", "mysql", "mongodb", "redis", "sqlite", "oracle", "dynamodb",
+    "cassandra", "elasticsearch", "neo4j"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "terraform", "ansible", "jenkins",
+    "github actions", "gitlab ci", "circleci", "helm", "prometheus", "grafana", "nginx"
+  ],
+  "data_ml": [
+    "pandas", "numpy", "scikit-learn", "tensorflow", "pytorch", "keras", "xgboost",
+    "lightgbm", "spark", "hadoop", "airflow", "dbt", "tableau", "power bi", "matplotlib", "seaborn",
+    "nlp", "computer vision", "mlops"
+  ],
+  "soft_skills": [
+    "communication", "leadership", "teamwork", "problem solving",
+    "critical thinking", "time management", "adaptability", "collaboration", "mentoring",
+    "agile", "scrum", "kanban"
+  ],
+  "tools": [
+    "git", "github", "gitlab", "bitbucket", "jira", "confluence", "slack", "postman", "swagger",
+    "openapi", "linux", "bash", "vim", "vscode"
+  ]
+}

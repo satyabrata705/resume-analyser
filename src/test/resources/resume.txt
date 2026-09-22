@@ -1,0 +1,18 @@
+Jane Doe
+jane.doe@example.com | (555) 123-4567 | linkedin.com/in/janedoe | github.com/janedoe
+
+Summary
+Backend engineer with 5 years of experience building scalable services in Python and Java.
+
+Experience
+- Led the redesign of the payments service, reducing latency by 30%.
+- Built and shipped a Java microservice handling 10k requests per second.
+- Designed and implemented CI/CD pipelines using GitHub Actions and Docker.
+- Improved test coverage and mentored two junior engineers.
+- Automated deployment workflows, reducing release time by 40%.
+
+Education
+B.Tech in Computer Science, State University, 2018
+
+Skills
+Python, Java, Spring Boot, PostgreSQL, Docker, Kubernetes, Git, Agile

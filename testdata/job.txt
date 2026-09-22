@@ -1,0 +1,9 @@
+﻿We are hiring a Senior Java Backend Engineer.
+Required skills:
+- Java and Spring Boot
+- PostgreSQL or MySQL
+- Kubernetes and Docker
+- AWS or GCP
+- Kafka for event streaming
+- Terraform for infrastructure
+Nice to have: Python, GraphQL, Redis.
