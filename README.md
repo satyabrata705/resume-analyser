@@ -119,7 +119,7 @@ curl -X POST http://localhost:8080/api/v1/resumes/analyze \
 
 ## Screenshot
 
-_Swagger UI screenshot placeholder — add a screenshot of `/swagger-ui.html` here._
+![Swagger UI](docs/swagger.png)
 
 ## Future work
 
